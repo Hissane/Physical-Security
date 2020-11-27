@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>expanded</key><true/>
+  <key>nodeid</key><string>06e075e1-df47-419f-9995-df50a2395fc9</string>
+  <key>modified_time</key><integer>1606508180</integer>
+  <key>expanded2</key><true/>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1606340289</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>icon</key><string>check.png</string>
+  <key>title</key><string>4.3.5 Diffuseurs Sonores Non Autonomes (D.S.N.A)</string>
+  <key>version</key><integer>6</integer>
+  <key>order</key><integer>4</integer>
+  <key>info_sort</key><string>order</string>
+</dict>
+</node>

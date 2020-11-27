@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>expanded</key><true/>
+  <key>title</key><string>4.2 Système de détection Incendie (SDI)</string>
+  <key>nodeid</key><string>3f89d8ae-74be-484d-b8c7-f8e71f2c210d</string>
+  <key>modified_time</key><integer>1606336267</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1606254379</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>1</integer>
+  <key>info_sort</key><string>order</string>
+  <key>icon</key><string>folder-green.png</string>
+</dict>
+</node>
