@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>4.3.3 Unité de Commandes Manuelles Centralisées (UCMC)</string>
+  <key>nodeid</key><string>df3c61d6-73fd-41b0-bef7-ca5b2a86668b</string>
+  <key>modified_time</key><integer>1606504675</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1606340282</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>2</integer>
+  <key>info_sort</key><string>order</string>
+  <key>icon</key><string>check.png</string>
+</dict>
+</node>

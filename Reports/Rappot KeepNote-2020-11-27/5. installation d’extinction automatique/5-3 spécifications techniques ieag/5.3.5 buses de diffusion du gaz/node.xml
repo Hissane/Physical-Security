@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>5.3.5 Buses de diffusion du gaz</string>
+  <key>nodeid</key><string>8c97c08f-ec95-4df6-95a9-af8a9a1409c3</string>
+  <key>modified_time</key><integer>1606349807</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1606349619</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>4</integer>
+  <key>info_sort</key><string>order</string>
+  <key>icon</key><string>check.png</string>
+</dict>
+</node>

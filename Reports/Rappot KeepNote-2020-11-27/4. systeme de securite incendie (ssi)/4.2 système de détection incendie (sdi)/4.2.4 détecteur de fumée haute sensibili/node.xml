@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>4.2.4 Détecteur de fumée haute sensibilité</string>
+  <key>nodeid</key><string>8397378a-540e-42b1-af77-5ced38b7e648</string>
+  <key>modified_time</key><integer>1606342557</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1606265153</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>3</integer>
+  <key>info_sort</key><string>order</string>
+  <key>icon</key><string>check.png</string>
+</dict>
+</node>
